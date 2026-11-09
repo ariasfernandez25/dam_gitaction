@@ -12,7 +12,6 @@ jobs:
         echo "Hola"
     - name: Muestra Fecha     
       run:
-        echo "Fecha" date
-  
-  
+        echo "Fecha" 
+        date
   
