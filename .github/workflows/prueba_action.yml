@@ -12,4 +12,6 @@ jobs:
         echo "Hola"
         echo "Fecha" 
         date
+        echo "Version de Java"
+        Version
   
