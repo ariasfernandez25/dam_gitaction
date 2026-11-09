@@ -13,5 +13,5 @@ jobs:
         echo "Fecha" 
         date
         echo "Version de Java"
-        Version
+        Java -Version
   
